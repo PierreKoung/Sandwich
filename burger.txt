@@ -2,3 +2,4 @@
 - tomate
 - cornichon
 - fromage
+- pain complet
