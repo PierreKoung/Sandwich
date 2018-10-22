@@ -1,4 +1,5 @@
-- steak salade
+- steak de boeuf
+- couche d'oignons
 - tomate
 - cornichon
 - fromage
